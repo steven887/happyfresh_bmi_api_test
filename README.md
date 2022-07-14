@@ -1,2 +1,6 @@
 # happyfresh_bmi_api_test
-test bmi api with fastapi
+How to use it :
+* Install python
+* Install virtualenv
+* create virtualenv folder
+
